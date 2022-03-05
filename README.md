@@ -8,3 +8,9 @@ Project 1: Ciphers
 Project 2: Hangman word choosers (standard and evil algorithm) and solvers (AI)
 
 Project 3: Guitar synthesizer (Deques, Stacks, Queues)
+
+Project 4: Movie autocomplete (Tries, trees)
+
+Project 6: Text chat with autocomplete, spell check, and word suggestion (Heaps, trees)
+
+Lab 7: Maze Solver (N-ary trees, Recursive and iterative DFS)
