@@ -13,4 +13,6 @@ Project 4: Movie autocomplete (Tries, trees)
 
 Project 6: Text chat with autocomplete, spell check, and word suggestion (Heaps, trees)
 
+Project 7: Map App with autocomplete, spell check, suggestions, and routing features (using Dijkstra algorithm to find shortest path between two locations). Currently mapped for Pasadena. 
+
 Lab 7: Maze Solver (N-ary trees, Recursive and iterative DFS)
